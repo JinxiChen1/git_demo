@@ -1,4 +1,5 @@
-### Citations
+## Citations
+```
 @inproceedings{CIKM20-NETE,
 	title={Generate Neural Template Explanations for Recommendation},
 	author={Li, Lei and Zhang, Yongfeng and Chen, Li},
@@ -11,3 +12,4 @@
 	booktitle={WWW Demo},
 	year={2020}
 }
+```
