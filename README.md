@@ -1,15 +1,13 @@
 ## Citations
 ```
-@inproceedings{CIKM20-NETE,
-	title={Generate Neural Template Explanations for Recommendation},
-	author={Li, Lei and Zhang, Yongfeng and Chen, Li},
-	booktitle={CIKM},
-	year={2020}
-}
-@inproceedings{WWW20-NETE,
-	title={Towards Controllable Explanation Generation for Recommender Systems via Neural Template},
-	author={Li, Lei and Chen, Li and Zhang, Yongfeng},
-	booktitle={WWW Demo},
-	year={2020}
+@incollection{NIPS2018_8163,
+title = {e-SNLI: Natural Language Inference with Natural Language Explanations},
+author = {Camburu, Oana-Maria and Rockt\"{a}schel, Tim and Lukasiewicz, Thomas and Blunsom, Phil},
+booktitle = {Advances in Neural Information Processing Systems 31},
+editor = {S. Bengio and H. Wallach and H. Larochelle and K. Grauman and N. Cesa-Bianchi and R. Garnett},
+pages = {9539--9549},
+year = {2018},
+publisher = {Curran Associates, Inc.},
+url = {http://papers.nips.cc/paper/8163-e-snli-natural-language-inference-with-natural-language-explanations.pdf}
 }
 ```
